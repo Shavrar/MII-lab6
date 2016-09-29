@@ -6,6 +6,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 
 namespace lab6
 {
+    //some comment
     [Serializable]
     class Record
     {
